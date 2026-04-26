@@ -46,4 +46,4 @@ Obtenemos el siguiente resultado donde se puede observar que dado que la penaliz
 <img width="494" height="878" alt="image" src="https://github.com/user-attachments/assets/e21359be-448d-408b-9c61-ff6b56eca9ea" />
 <br>
 <br>
-Todas las librerías utilizadas para la realización de la tarea como numpy o matplotlib se encuentran en el archivo requirements.txt
+Todas las librerías utilizadas para la realización de la tarea como numpy o matplotlib se encuentran dentro del archivo requirements.txt
